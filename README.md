@@ -52,11 +52,10 @@ Step 2: Queue length = 1619
 ## 🏗️ Project Structure
 ```
 📂 Sudoku-CSP/
-│── 📜 sudoku_csp.py         # AC-3 & Backtracking Sudoku Solver
-│── 📜 README.md             # Project Documentation
-│── 📜 requirements.txt      # Dependencies
-│── 📂 data/                 # Sample Sudoku Puzzles
-│── 📂 results/              # Performance Analysis Logs
+│── 📜 sudoku.py             # AC-3 & Backtracking Sudoku Solver
+│── 📜 README.md             # Overview
+│── 📜 CP468-A2-8.pdf        # Project Documentation 
+
 ```
 
 
